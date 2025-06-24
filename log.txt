@@ -1,0 +1,5 @@
+Deposited ₹500 | New Balance: ₹1500
+Withdrawn ₹1200 | New Balance: ₹300
+Deposited ₹200 | New Balance: ₹500
+Deposited ₹5000 | New Balance: ₹5500
+Withdrawn ₹1000 | New Balance: ₹4500
