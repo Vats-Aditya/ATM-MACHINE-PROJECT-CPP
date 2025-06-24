@@ -1,13 +1,6 @@
 #include <iostream>
 #include <fstream>
 using namespace std;
-textfile ()
-{
-ofstream pin("pin.txt");
-pin<<"2345";
-ofstream balanceamount("balance.txt");
-balanceamount<<"1000";
-}
 
 //  Validate PIN from pin.txt
 bool validatePIN() {
